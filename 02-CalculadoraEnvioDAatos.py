@@ -1,6 +1,6 @@
 import subprocess
 import pyautogui
-import time
+import time 
 
 # Abre la calculadora de Windows
 subprocess.Popen('calc.exe')
